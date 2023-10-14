@@ -5,7 +5,7 @@
 I As a Computer Science student in my Pre-Final Year at VIT Chennai Unversity.
  I am passionate about creating web and android applications that are useful, innovative, and user-friendly. I have developed multiple websites and front-end back-end systems using HTML/CSS/JS/REACT and MERN framework, as well as learning to develop android apps using Kotlin and Java.
 
-I am also enthusiastic about game development and have joined the Game Development Club at VIT Chennai, where I work with seniors and peers to design and build games in Unity. I have also completed several mini-projects and courses in Python, such as creating web apps with Flask, learning data structures and algorithms, and exploring turtle graphics and Tkinter. I am proficient in Python and have earned certifications from Coursera, Google, and Unstop. I enjoy learning new skills and technologies and applying them to real-world problems. My goal is to become a full-stack developer and a game designer who can create impactful and engaging digital solutions.
+I am also enthusiastic about game development.I enjoy learning new skills and technologies and applying them to real-world problems. My goal is to become a full-stack developer and a game designer who can create impactful and engaging digital solutions.
 
 Skills: HTML / CSS / JavaScript / Bootstrap / React / Python / C / C# / C++
 
