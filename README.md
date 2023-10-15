@@ -2,10 +2,7 @@
 #### A Web Developer and Python Enthusiast
 ![A Web Developer and Python Enthusiast](https://media.licdn.com/dms/image/D5616AQGBz-3jzImBXQ/profile-displaybackgroundimage-shrink_350_1400/0/1684602305631?e=1702512000&v=beta&t=EO48DXj6DNGkdUH0tS5TO1ekOsmmfgg_iy9x8qHszkY)
 
-I As a Computer Science student in my Pre-Final Year at VIT Chennai Unversity.
- I am passionate about creating web and android applications that are useful, innovative, and user-friendly. I have developed multiple websites and front-end back-end systems using HTML/CSS/JS/REACT and MERN framework, as well as learning to develop android apps using Kotlin and Java.
-
-I am also enthusiastic about game development.I enjoy learning new skills and technologies and applying them to real-world problems. My goal is to become a full-stack developer and a game designer who can create impactful and engaging digital solutions.
+I am enthusiastic about web development and game development.I enjoy learning new skills and technologies and applying them to real-world problems. My goal is to become a full-stack developer and a game designer who can create impactful and engaging digital solutions.
 
 Skills: HTML / CSS / JavaScript / Bootstrap / React / Python / C / C# / C++
 
@@ -25,10 +22,5 @@ Skills: HTML / CSS / JavaScript / Bootstrap / React / Python / C / C# / C++
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-mu&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=surya-mu)  
-
 ![GitHub metrics](https://metrics.lecoq.io/surya-mu)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=surya-mu)  
-
-![Profile views](https://gpvc.arturio.dev/surya-mu)  
