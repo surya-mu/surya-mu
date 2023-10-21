@@ -11,16 +11,23 @@ Skills: HTML / CSS / JavaScript / Bootstrap / React / Python / C / C# / C++
 - 🤔 I’m looking for help with Open Source Development. 
 - 💬 Ask me about Interns, Web Development, Contributions. 
 
+<div align="center">
+  <a href="https://github.com/surya-mu">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-mul&theme=dracula" />
+  </a>
+  <div >
+    <a href="https://github.com/Garcel">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=surya-mu&theme=dracula" />
+    </a>
+    <a href="https://github.com/Garcel">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya-mu&hide_border=true&card_width=338&theme=dracula" />
+    </a>
+  </div>
+</div>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/surya-mu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suryamu7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCnMoeCEZSspCS3Ds-gCVd2w)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](surya-mu.github.io)  
-
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=surya-mu)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-mu)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=surya-mu&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/surya-mu)  
+<p align="center">
+  <a href="https://github.com/surya-mu">
+    <img src="https://komarev.com/ghpvc/?username=surya-mu&color=blueviolet&style=flat)"  alt="Where are the visitors?"/>
+  </a>
+</p>
 
