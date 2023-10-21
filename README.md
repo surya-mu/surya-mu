@@ -11,7 +11,7 @@ Skills: HTML / CSS / JavaScript / Bootstrap / React / Python / C / C# / C++
 
 <div align="center">
   <a href="https://github.com/surya-mu">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-mul&theme=dracula" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surya-mu&theme=dracula" />
   </a>
   <div >
     <a href="https://github.com/Garcel">
