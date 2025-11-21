@@ -56,7 +56,7 @@ Aspiring full-stack developer with strong foundations in web technologies and ob
 ## 📫 Contact
 
 - 📍 Chennai, India  
-- 🌐 [My Portfolio](https://surya-mu.me/)
+- 🌐 [My Portfolio](https://surya-mu.github.io/portfolio)
 - 📧 [Email](mailto:musurya2014@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/suryamu7) | [GitHub](https://github.com/surya-mu)
 
